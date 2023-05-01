@@ -1,2 +1,7 @@
 # Python_practicing
-My practice or test python files &amp; scripts
+
+## Tuple, sets, dictionary, module, functions, json
+## List, Queue, Stack, Pickle
+## Games : 
+### Guessing random numbers
+### Rock, Scissor, Paper
